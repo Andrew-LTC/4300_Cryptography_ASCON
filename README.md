@@ -2,3 +2,7 @@
 - Block Diagram
 
 ![](images/BlockDiagram.png)
+
+- Register Map
+
+![](images/RegMap.png)
