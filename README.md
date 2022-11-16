@@ -6,3 +6,6 @@
 - Register Map
 
 ![](images/RegMap.png)
+- Power Report
+
+![](images/PowerReport.png)
